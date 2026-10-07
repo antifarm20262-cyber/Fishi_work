@@ -1,7 +1,7 @@
 {
   "version": 1,
   "project": "FISHi Workspace",
-  "updatedAt": "2026-10-07T17:01:32.471905",
+  "updatedAt": "2026-10-07T17:03:12.608642",
   "sections": {
     "section-2": {
       "ideas": [],
@@ -9,13 +9,7 @@
       "status": "open"
     },
     "section-6": {
-      "ideas": [
-        {
-          "author": "Csoki",
-          "text": "asd",
-          "time": "okt. 7. 16:57"
-        }
-      ],
+      "ideas": [],
       "final": "",
       "status": "open"
     }
@@ -23,6 +17,14 @@
   "priorities": {},
   "launchFinal": "",
   "topics": [
+    {
+      "id": "section-1",
+      "num": "01",
+      "title": "Indulási Stratégia & Liquidity Fókusz",
+      "icon": "🚀",
+      "body": "<h3>1. 🚀 Indulási Stratégia & Liquidity Fókusz</h3>\n<p><strong>Ne az legyen a launch célja, hogy „minél több ember letöltse a FISHI-t”, hanem hogy a vevő találjon érdekes terméket, az eladó pedig gyorsan el tudjon adni.</strong></p>\n<blockquote><strong>„A marketplace sikere a likviditás: azonnali kínálat és gyors eladás az első naptól.”</strong></blockquote>\n<h4>Fő prioritások a nyitáshoz:</h4>\n<ul>\n  <li><strong>Első 90 nap:</strong> Nem pusztán felhasználószám-gyűjtés, hanem eladói kínálatépítés (liquidity).</li>\n  <li><strong>Kereslet és kínálat egyensúlya:</strong> Ha 10 000 ember regisztrál, de üres a piac („Nincs találat”), azonnal elveszítjük őket.</li>\n  <li><strong>Első benyomás:</strong> Releváns horgászkategóriák és minőségi hirdetések már a legelső látogatáskor.</li>\n</ul>",
+      "archived": false
+    },
     {
       "id": "section-2",
       "num": "02",
