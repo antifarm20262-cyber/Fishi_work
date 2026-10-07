@@ -1,7 +1,7 @@
 {
   "version": 1,
   "project": "FISHi Workspace",
-  "updatedAt": "2026-10-07T16:57:47.488546",
+  "updatedAt": "2026-10-07T16:58:06.803712",
   "sections": {
     "section-2": {
       "ideas": [],
@@ -9,13 +9,7 @@
       "status": "open"
     },
     "section-6": {
-      "ideas": [
-        {
-          "author": "Csoki",
-          "text": "asd",
-          "time": "okt. 7. 16:57"
-        }
-      ],
+      "ideas": [],
       "final": "",
       "status": "open"
     }
