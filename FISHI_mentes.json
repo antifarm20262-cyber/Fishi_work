@@ -1,7 +1,7 @@
 {
   "version": 1,
   "project": "FISHi Workspace",
-  "updatedAt": "2026-10-07T20:47:57.324377",
+  "updatedAt": "2026-10-07T20:49:08.108882",
   "sections": {
     "section-2": {
       "ideas": [],
@@ -9,23 +9,12 @@
       "status": "open"
     },
     "section-6": {
-      "ideas": [
-        {
-          "author": "Csoki",
-          "text": "asd",
-          "time": "okt. 7. 16:57"
-        }
-      ],
+      "ideas": [],
       "final": "",
       "status": "open"
     },
     "section-1": {
       "ideas": [
-        {
-          "author": "Csoki",
-          "text": "asd",
-          "time": "okt. 7. 17:26"
-        },
         {
           "author": "Ric4rdo",
           "text": "Első Eladók:\n\nkiemelt profil\nelsőbbségi megjelenés\n„alapító eladó” jelvény",
@@ -65,6 +54,11 @@
           "author": "Ric4rdo",
           "text": "Vannak tiltott termékek?",
           "time": "okt. 7. 19:16"
+        },
+        {
+          "author": "Csoki",
+          "text": "asd",
+          "time": "okt. 7. 17:26"
         }
       ],
       "final": "",
