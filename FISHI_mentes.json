@@ -1,7 +1,7 @@
 {
   "version": 1,
   "project": "FISHi Workspace",
-  "updatedAt": "2026-10-07T20:45:59.115695",
+  "updatedAt": "2026-10-07T20:47:57.324377",
   "sections": {
     "section-2": {
       "ideas": [],
@@ -9,12 +9,23 @@
       "status": "open"
     },
     "section-6": {
-      "ideas": [],
+      "ideas": [
+        {
+          "author": "Csoki",
+          "text": "asd",
+          "time": "okt. 7. 16:57"
+        }
+      ],
       "final": "",
       "status": "open"
     },
     "section-1": {
       "ideas": [
+        {
+          "author": "Csoki",
+          "text": "asd",
+          "time": "okt. 7. 17:26"
+        },
         {
           "author": "Ric4rdo",
           "text": "Első Eladók:\n\nkiemelt profil\nelsőbbségi megjelenés\n„alapító eladó” jelvény",
