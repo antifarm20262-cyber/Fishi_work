@@ -1,7 +1,7 @@
 {
   "version": 1,
   "project": "FISHi Workspace",
-  "updatedAt": "2026-10-07T18:37:57.449226",
+  "updatedAt": "2026-10-07T18:42:57.479696",
   "sections": {
     "section-2": {
       "ideas": [],
@@ -45,6 +45,11 @@
           "author": "Ric4rdo",
           "text": "Érzékelje ha egy hasonló terméket olcsóbban tettek fel",
           "time": "okt. 7. 18:07"
+        },
+        {
+          "author": "Ric4rdo",
+          "text": "Piramis játék\n\nHívj meg egy társad és akkor kapsz egy ingyen kiemelt hírdetést vagy bármi kedvezményt",
+          "time": "okt. 7. 18:42"
         }
       ],
       "final": "",
