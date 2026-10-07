@@ -1,7 +1,7 @@
 {
   "version": 1,
   "project": "FISHi Workspace",
-  "updatedAt": "2026-10-07T19:12:57.430287",
+  "updatedAt": "2026-10-07T19:17:57.493620",
   "sections": {
     "section-2": {
       "ideas": [],
@@ -60,6 +60,11 @@
           "author": "Ric4rdo",
           "text": "Kampány üzenetek\n\n1. Van olyan horgászfelszerelésed, amit már nem használsz?\n\nAdd el egy másik horgásznak a Fishin.\n\n2. „Vinted a ruháidnak.”\n\nFishi a horgászfelszerelésednek. (lehet ilyet?)",
           "time": "okt. 7. 19:00"
+        },
+        {
+          "author": "Ric4rdo",
+          "text": "Vannak tiltott termékek?",
+          "time": "okt. 7. 19:16"
         }
       ],
       "final": "",
