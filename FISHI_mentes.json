@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "project": "FISHi Workspace",
+  "updatedAt": "2026-10-07T16:26:05.106979",
+  "sections": {
+    "section-2": {
+      "ideas": [
+        {
+          "author": "Csoki",
+          "text": "asd",
+          "time": "okt. 7. 16:25"
+        }
+      ],
+      "final": "",
+      "status": "open"
+    }
+  },
+  "priorities": {},
+  "launchFinal": "",
+  "topics": [
+    {
+      "id": "section-2",
+      "num": "02",
+      "title": "Az első 100 eladó kampány",
+      "icon": "🎣",
+      "body": "<h3>2. 🎣 Az első 100 eladó kampány</h3>\n<p><strong>Ezt az első 100 eladós kampányt össze kell kötnünk a többi indulási csatornával.</strong></p>\n<h4>Kampányajánlat:</h4>\n<blockquote><strong>AZ ELSŐ 100 FISHI ELADÓ KÖZÖTT 100 000 FT-OT SORSOLUNK KI!</strong></blockquote>\n<p>De nem csak sima Facebook-reklámként, hanem a három csatornát egyszerre mozgatva:</p>\n<ul>\n  <li><strong>Facebook csoportok:</strong> „Van eladó horgászfelszerelésed? Töltsd fel!”</li>\n  <li><strong>Horgászboltok:</strong> QR-kód a pultra + partnerprogram</li>\n  <li><strong>Horgász rendezvények & versenyek:</strong> személyes regisztráció + QR</li>\n</ul>\n<p>A FISHI számára a rendezvény azért különösen érdekes, mert nem csak vásárlókat, hanem <strong>eladókat és későbbi FISHI Shopokat</strong> is találtok.</p>",
+      "archived": false
+    },
+    {
+      "id": "section-3",
+      "num": "03",
+      "title": "FISHI Shopok (Bolti integráció)",
+      "icon": "🏪",
+      "body": "<h3>3. 🏪 FISHI Shopok</h3>\n<p><strong>A FISHI Shop stratégiát már az első hónaptól el kell indítanunk.</strong></p>\n<p>Nem kell rögtön 100 bolt. Első lépés: <strong>10 bolt</strong> ➔ 25 ➔ 50 ➔ 100.</p>\n<blockquote><strong>„A FISHI új, modern értékesítési csatorna a horgászboltodnak.”</strong></blockquote>\n<p>Mit ad a FISHI a partnerboltoknak?</p>\n<ul>\n  <li>Saját branded shop profil & egyszerű termékfeltöltés</li>\n  <li>Kiemelési lehetőségek a kategóriák élén & analitika</li>\n  <li>Közvetlen rendeléskezelés & automatizált kifizetés (payout)</li>\n  <li>Országos vásárlói bázis elérése</li>\n</ul>\n<p>A bolti partnerek olyan állandó minőségi készletet adnak, ami miatt a vásárlónak <strong>már a legelső naptól van miért visszajönnie</strong>.</p>",
+      "archived": false
+    },
+    {
+      "id": "section-4",
+      "num": "04",
+      "title": "Tranzakció és Checkout tesztelés",
+      "icon": "💰",
+      "body": "<h3>4. 💰 A tranzakciót végig kell tesztelni</h3>\n<p><strong>Ez kritikus launch blocker: a pénzügyi folyamatnak hibátlannak kell lennie az indulás előtt.</strong></p>\n<pre><code>VEVŐ ──▶ Fizetés (Stripe) ──▶ Order PAID ──▶ Eladó értesítés ──▶ Csomagfeladás ──▶ Tracking ──▶ Átvétel ──▶ 24h ellenőrzés ──▶ Eladó Payout ──▶ Értékelés</code></pre>\n<h4>Minden kivételt és hibaágat le kell kezelni:</h4>\n<ul>\n  <li><strong>Vevő oldal:</strong> Csomag nem érkezik meg, sérült termék, más van a csomagban, hamis termék, eladó eltűnik.</li>\n  <li><strong>Eladó oldal:</strong> Vevő nem veszi át, jogtalan reklamáció, visszaküldés sérülten, chargeback.</li>\n</ul>\n<p><strong>Minden egyes tranzakciós állapotnak legyen konkrét, naplózott backend állapota (state machine).</strong></p>",
+      "archived": false
+    },
+    {
+      "id": "section-5",
+      "num": "05",
+      "title": "Bizalom és FISHI Vevővédelem",
+      "icon": "🛡️",
+      "body": "<h3>5. 🛡️ Bizalom lesz a FISHI legfontosabb marketingje</h3>\n<p>A frissen induló marketplace legnagyobb vásárlói félelme:</p>\n<blockquote><em>„Mi van, ha kifizetem és átvernek?”</em></blockquote>\n<h4>A FISHI Vevővédelem garanciája:</h4>\n<pre><code>💳 Fizetés (Letét) ──▶ 📦 Feladás ──▶ 🚚 Szállítás ──▶ 📬 Átvétel ──▶ 🔍 Ellenőrzés ──▶ 💰 Eladó kifizetve</code></pre>\n<p>Az NMHH marketplace-kutatása szerint a tesztvásárlások közel 20%-ában merül fel probléma. A gyors, átlátható és igazságos panaszkezelés a siker kulcsa.</p>\n<p><strong>A dispute (vitarendezési) rendszer nem egy plusz funkció, hanem a CORE platform gerince.</strong></p>",
+      "archived": false
+    },
+    {
+      "id": "section-6",
+      "num": "06",
+      "title": "Jogi megfelelés & DSA szabályozás",
+      "icon": "⚖️",
+      "body": "<h3>6. ⚖️ Jogi/compliance – ezt most rakjuk rendbe</h3>\n<p>A FISHI marketplace-ként több EU-s szabályozási rétegbe belefut (Digital Services Act - DSA, fogyasztóvédelem):</p>\n<h4>DSA követelmények:</h4>\n<ul>\n  <li>Illegális/veszélyes termékek szűrése & bejelentési mechanizmus</li>\n  <li>Moderációs folyamatok és döntések indoklása</li>\n  <li>Kereskedői azonosítás (KYC) és nyomonkövethetőség</li>\n</ul>\n<h4>Trader vs. Magánszemély:</h4>\n<p>A hirdetésnél egyértelműen szerepelnie kell: <strong>Eladó típusa: Magánszemély / Üzleti eladó</strong>.</p>",
+      "archived": false
+    },
+    {
+      "id": "section-7",
+      "num": "07",
+      "title": "DAC7 adatszolgáltatási modell",
+      "icon": "🧾",
+      "body": "<h3>7. 🧾 DAC7 – adatszolgáltatás az adatbázisban</h3>\n<p>Mivel horgászfelszerelések adásvétele zajlik, a platform DAC7 adatszolgáltatási kötelezettség alá esik a NAV felé.</p>\n<p>Fontos küszöbérték: <strong>&lt; 30 tranzakció ÉS &lt; 2 000 EUR éves forgalom</strong> esetén mentesülhet az eladó.</p>\n<p>A szükséges adatmezőknek már most benne kell lenniük az adatbázisban:</p>\n<pre><code>seller_type, legal_name, country, address, tax_id, vat_id, total_transactions, total_gmv, dac7_status</code></pre>",
+      "archived": false
+    },
+    {
+      "id": "section-8",
+      "num": "08",
+      "title": "UX — Első vásárlás és feladás élménye",
+      "icon": "📱",
+      "body": "<h3>8. 📱 UX – az első folyamatnak egyszerűnek kell lennie</h3>\n<p>Ha a folyamat közben 12 felugró ablak és 8 felesleges kötelező mező van, a horgászok azonnal bezárják az appot.</p>\n<h4>Fő KPI mérőszámok:</h4>\n<ul>\n  <li><strong>Registration ➔ First listing:</strong> Regisztrációtól az első hirdetésig eltelt idő.</li>\n  <li><strong>Registration ➔ First purchase:</strong> Regisztrációtól az első vásárlásig eltelt idő.</li>\n  <li><strong>Listing ➔ First sale:</strong> Hirdetésfeladástól az eladásig tartó idő (liquidity mérce).</li>\n</ul>",
+      "archived": false
+    },
+    {
+      "id": "section-9",
+      "num": "09",
+      "title": "Analytics & Értékesítési Tölcsér",
+      "icon": "📊",
+      "body": "<h3>9. 📊 Analytics – mindent mérjünk</h3>\n<p>Már az első naptól tisztán kell látnunk a forgalmi konverziós tölcsért:</p>\n<pre><code>Látogatók ──▶ Regisztráltak ──▶ Hirdetők ──▶ Feltöltött cikkek ──▶ Vásárlások ──▶ GMV & Bevétel</code></pre>\n<h4>Kiemelt mutatók:</h4>\n<ul>\n  <li><strong>CAC:</strong> Mennyibe kerül egy vásárló megszerzése csatornánként?</li>\n  <li><strong>Seller CAC:</strong> Mennyibe kerül egy aktív hirdető bevonása?</li>\n  <li><strong>Seller activation rate:</strong> Hány regisztráltból lesz valós hirdető?</li>\n</ul>",
+      "archived": false
+    },
+    {
+      "id": "section-10",
+      "num": "10",
+      "title": "Marketing Kommunikációs Üzenetek",
+      "icon": "📣",
+      "body": "<h3>10. 📣 Marketing: ne csak „FISHI létezik”</h3>\n<p>Három teljesen különálló üzenetet kell kommunikálnunk a különböző célcsoportoknak:</p>\n<ul>\n  <li><strong>A) Eladóknak:</strong> „Van felesleges horgászfelszerelésed? Add el gyorsan a FISHI-n!”</li>\n  <li><strong>B) Vevőknek:</strong> „Keress minőségi botokat és orsókat több száz horgásztól egy helyen!”</li>\n  <li><strong>C) Bizalom:</strong> „Vásárolj 100% biztonságban a FISHI Vevővédelemmel!”</li>\n</ul>",
+      "archived": false
+    },
+    {
+      "id": "section-11",
+      "num": "11",
+      "title": "Influencer & TikTok Hálózat",
+      "icon": "🤝",
+      "body": "<h3>11. 🤝 Influencer / TikTok stratégia</h3>\n<p>Egyetlen drága sztár helyett: <strong>20 szakági, hiteles mikró-alkotó</strong> (feeder, pergető, bojlis, harcsás, method, finomszerelékes).</p>\n<p>Mindegyiknek egyedi affiliate link (<code>fishi.hu/ref/XY</code>) és jutalék a náluk létrejött forgalom után.</p>",
+      "archived": false
+    },
+    {
+      "id": "section-12",
+      "num": "12",
+      "title": "Bolti QR Kódos Partnerprogram",
+      "icon": "🏪",
+      "body": "<h3>12. 🏪 QR-kódos bolti partnerprogram</h3>\n<p>Minden partnerbolt pultjára kihelyezett QR tábla:</p>\n<blockquote><strong>„Add el a régi botodat, hogy legyen hely az újnak!”</strong></blockquote>\n<p>A boltok saját Partner Dashboardot kapnak, ahol követhetik a regisztrációkat és jutalékot kapnak a generált vásárlások után.</p>",
+      "archived": false
+    },
+    {
+      "id": "section-13",
+      "num": "13",
+      "title": "Szállítási Rendszer (FOXPOST / GLS)",
+      "icon": "🚚",
+      "body": "<h3>13. 🚚 Szállítási architektúra</h3>\n<p>Az induló kézi feladást már most szolgáltató-függetlenre (absztrakció) kell megtervezni:</p>\n<pre><code>ShippingProvider ──┬── Kézi / Egyéni feladás\n                   ├── FOXPOST Csomagautomata API\n                   ├── GLS Házhozszállítás API\n                   └── Packeta Átvételi pontok</code></pre>",
+      "archived": false
+    },
+    {
+      "id": "section-14",
+      "num": "14",
+      "title": "Hirdetési Költségvetés & Megtérülés",
+      "icon": "💸",
+      "body": "<h3>14. 💸 Hatékony büdzséallokáció (Ad Spend)</h3>\n<p>Csatornánként vizsgálni kell a valós tranzakciót generáló megtérülést:</p>\n<table>\n  <thead><tr><th>Csatorna</th><th>Költség</th><th>Regisztráció</th><th>Eladó</th><th>Vásárlás</th><th>GMV</th></tr></thead>\n  <tbody>\n    <tr><td>Meta Ads</td><td>300k Ft</td><td>2 000</td><td>400</td><td>80</td><td>2.0M Ft</td></tr>\n    <tr><td>TikTok</td><td>150k Ft</td><td>1 500</td><td>350</td><td>100</td><td>3.0M Ft</td></tr>\n    <tr><td>Influencer</td><td>100k Ft</td><td>800</td><td>250</td><td>90</td><td>2.5M Ft</td></tr>\n    <tr><td>Shop QR</td><td>30k Ft</td><td>400</td><td>200</td><td>70</td><td>1.8M Ft</td></tr>\n  </tbody>\n</table>",
+      "archived": false
+    },
+    {
+      "id": "section-15",
+      "num": "15",
+      "title": "Csalásmegelőzés (Anti-Scam & Fraud)",
+      "icon": "🚨",
+      "body": "<h3>15. 🚨 Csalás / scam megelőzés</h3>\n<p>Gyakori piactéri csalások azonnali kezelése:</p>\n<ul>\n  <li>Lopott fotók és másolt hirdetések</li>\n  <li>Belső chatben küldött adathalász fizetési linkek</li>\n  <li>Hamis feladási kódok és generált képek</li>\n</ul>\n<blockquote>⚠️ A chatben azonnali automatikus felirat: „A FISHI soha nem kér bankkártya adatot üzenetben!”</blockquote>",
+      "archived": false
+    },
+    {
+      "id": "section-16",
+      "num": "16",
+      "title": "Értékelési & Reputációs Rendszer",
+      "icon": "⭐",
+      "body": "<h3>16. ⭐ Értékelési rendszer</h3>\n<p>Nem csupán 5 csillag, hanem részletes kategóriák:</p>\n<ul>\n  <li>A termék állapota pontosan megfelelt a leírásnak</li>\n  <li>Gyors feladás és biztonságos csomagolás</li>\n  <li>Segítőkész, korrekt kommunikáció</li>\n</ul>",
+      "archived": false
+    },
+    {
+      "id": "section-17",
+      "num": "17",
+      "title": "FISHI Daily Napi Vezérlőpult",
+      "icon": "🧠",
+      "body": "<h3>17. 🧠 Napi operatív KPI-k</h3>\n<p>A csapat napi ellenőrző listája:</p>\n<pre><code>Új hirdetés: 87 db  |  Aktív eladók: 1 243  |  Aktív vevők: 4 821\nNapi GMV: 1.84M Ft  |  FISHI Bevétel: 92k Ft  |  First-sale arány: 18%\nDispute ügyek: 2    |  Visszatérítés: 3 db    |  Vevői CAC: 740 Ft</code></pre>",
+      "archived": false
+    },
+    {
+      "id": "section-18",
+      "num": "18",
+      "title": "Nemzetközi Bővülés (ES, DE, EU)",
+      "icon": "🌍",
+      "body": "<h3>18. 🌍 Globális piacok előkészítése</h3>\n<p>A stratégiai cél: <strong>FISHI Magyarország ➔ Spanyolország ➔ Németország ➔ Európa</strong>.</p>\n<p>A backendben a nyelv, a deviza és az adózás legyen paraméterezhető:</p>\n<pre><code>HU (HUF, hu-HU) ──▶ ES (EUR, es-ES) ──▶ DE (EUR, de-DE)</code></pre>",
+      "archived": false
+    }
+  ]
+}
