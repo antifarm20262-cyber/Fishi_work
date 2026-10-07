@@ -1,7 +1,22 @@
 {
   "version": 1,
   "project": "FISHI Launch War Room",
-  "updatedAt": "2026-10-07T16:15:54.834998",
+  "updatedAt": "2026-10-07T16:16:04.431696",
+  "sections": {
+    "section-2": {
+      "ideas": [
+        {
+          "author": "asd",
+          "text": "asd",
+          "time": "okt. 7. 16:14"
+        }
+      ],
+      "final": "",
+      "status": "open"
+    }
+  },
+  "priorities": {},
+  "launchFinal": "",
   "topics": [
     {
       "id": "section-2",
@@ -139,20 +154,5 @@
       "body": "<h3>18. 🌍 Globális piacok előkészítése</h3>\n<p>A stratégiai cél: <strong>FISHI Magyarország ➔ Spanyolország ➔ Németország ➔ Európa</strong>.</p>\n<p>A backendben a nyelv, a deviza és az adózás legyen paraméterezhető:</p>\n<pre><code>HU (HUF, hu-HU) ──▶ ES (EUR, es-ES) ──▶ DE (EUR, de-DE)</code></pre>",
       "archived": false
     }
-  ],
-  "sections": {
-    "section-2": {
-      "ideas": [
-        {
-          "author": "asd",
-          "text": "asd",
-          "time": "okt. 7. 16:14"
-        }
-      ],
-      "final": "",
-      "status": "open"
-    }
-  },
-  "priorities": {},
-  "launchFinal": ""
+  ]
 }
