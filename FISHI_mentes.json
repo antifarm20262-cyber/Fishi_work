@@ -1,7 +1,7 @@
 {
   "version": 1,
   "project": "FISHi Workspace",
-  "updatedAt": "2026-10-07T18:02:57.434526",
+  "updatedAt": "2026-10-07T18:07:57.480278",
   "sections": {
     "section-2": {
       "ideas": [],
@@ -35,6 +35,16 @@
           "author": "Ric4rdo",
           "text": "Saját facebook oldal (közösség építés)\n\nhorgász tippek\nfelszerelés-ajánlók",
           "time": "okt. 7. 18:01"
+        },
+        {
+          "author": "Ric4rdo",
+          "text": "A rendszer érzékelje hogy milyen árkategóriában vett és dobjon hasonlókat",
+          "time": "okt. 7. 18:06"
+        },
+        {
+          "author": "Ric4rdo",
+          "text": "Érzékelje ha egy hasonló terméket olcsóbban tettek fel",
+          "time": "okt. 7. 18:07"
         }
       ],
       "final": "",
