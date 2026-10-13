@@ -1,7 +1,7 @@
 {
   "version": 1,
   "project": "FISHi Workspace",
-  "updatedAt": "2026-10-13T19:40:46.799141",
+  "updatedAt": "2026-10-13T19:45:46.815497",
   "sections": {
     "section-2": {
       "ideas": [],
@@ -70,6 +70,11 @@
           "author": "Ric4rdo",
           "text": "Fishi leader board:\n\nTop eladók jutalmak, jelvények ajándékok\n\n1. Pontrendszer, eladott termék ára után és megvásárolt termék ára után.\n\n2. pontrendszer, eladott és vásárolt termékek mennyisége után (db).",
           "time": "okt. 13. 19:39"
+        },
+        {
+          "author": "Ric4rdo",
+          "text": "Fishi minigame? \n\nLehet gyűjteni kuponokat bizonyos boltokban vagy boltok termékeire. \n\nMinden napos free drop? alacsony értékű de később bne lehet váltani?\n\nEzek nagyon elterelik az alkalmazást egy másik irányba? mert ugye ez nem egy játék.",
+          "time": "okt. 13. 19:45"
         }
       ],
       "final": "",
