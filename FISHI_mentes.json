@@ -1,7 +1,7 @@
 {
   "version": 1,
   "project": "FISHi Workspace",
-  "updatedAt": "2026-10-13T19:35:46.818560",
+  "updatedAt": "2026-10-13T19:40:46.799141",
   "sections": {
     "section-2": {
       "ideas": [],
@@ -65,6 +65,11 @@
           "author": "Ric4rdo",
           "text": "Vannak tiltott termékek?",
           "time": "okt. 7. 19:16"
+        },
+        {
+          "author": "Ric4rdo",
+          "text": "Fishi leader board:\n\nTop eladók jutalmak, jelvények ajándékok\n\n1. Pontrendszer, eladott termék ára után és megvásárolt termék ára után.\n\n2. pontrendszer, eladott és vásárolt termékek mennyisége után (db).",
+          "time": "okt. 13. 19:39"
         }
       ],
       "final": "",
