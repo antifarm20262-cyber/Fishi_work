@@ -1,7 +1,7 @@
 {
   "version": 1,
   "project": "FISHi Workspace",
-  "updatedAt": "2026-10-13T19:50:46.840149",
+  "updatedAt": "2026-10-15T22:35:15.501981",
   "sections": {
     "section-2": {
       "ideas": [],
@@ -85,6 +85,11 @@
           "author": "Ric4rdo",
           "text": "Leaderboard mellé kitüntetések: hét eladója, hónap eladója, év eladója. Mindenkinek külön jelvény.",
           "time": "okt. 13. 19:48"
+        },
+        {
+          "author": "Ric4rdo",
+          "text": "AI ötlet: \n\nFishi Price Index – horgászfelszerelés-piaci árindex\nÜzleti érték: 5/5 · Költség: 5/5 · Várható hatás: 4/5\nA Fishi idővel saját adatbázist épít a hirdetett és ténylegesen eladott termékekről.\n- Modell szerinti átlagos eladási ár.\n- Jellemző árintervallum.\n- Árváltozás az idő függvényében.\n- Keresett és ritka termékek.\n- Becsült értékesítési idő.\n- Árjavaslat eladóknak.\nMiért erős? Hosszabb távon a Fishi saját piaci tudást építhet, amely a puszta hirdetési felületeknél többet nyújt. Ehhez elegendő tranzakciós adat, pontos termékazonosítás és az árak helyes értelmezése szükséges. A hirdetési árakat külön kell kezelni a tényleges eladási áraktól.",
+          "time": "okt. 13. 19:52"
         }
       ],
       "final": "",
